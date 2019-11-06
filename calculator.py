@@ -1,4 +1,5 @@
-import tkinter
+import tkinter #importing tkinter to handle the GUI
+#Setting all the variables that will be needed for the entire program
 tk = tkinter
 window = tk.Tk()
 answer = 0
